@@ -3,9 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.suridipannitasayeed.starplex_project1.MainActivity">
     <item
-        android:id="@+id/action_settings"
-
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:id="@+id/btnMyMenu"
+        android:icon="@drawable/drawer"
+        android:title="Right Side Menu"
+        app:showAsAction="always"/>
 </menu>
